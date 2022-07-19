@@ -12,12 +12,14 @@ This program implements a Bubble sort for an array of strings, Insertion sort fo
 ---
 ## Usage
 #### Sample Input:
+```
 Bubble Sort:
 [Lithium, Hydrogen, Carbon, Oxygen, Mercury]
 Merge Sort:
 [cat, dog, cow, pig, bat]
 Insertion Sort:
 [6, 11, 2, 4, 1, 6, -8, 13, 9]
+```
 #### Sample Output:
 ```
 Bubble Sort:
